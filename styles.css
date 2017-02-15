@@ -79,8 +79,13 @@ button {
 }
 
 .home {
+  position: relative;
   width: 33.333%;
   float: left;
+}
+
+.home a {
+  padding: 0px;
 }
 
 .under {
